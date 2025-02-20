@@ -26,7 +26,7 @@ requirements:
     - numpy
     - rdkit
     - networkx
-    - scikit-mol
+    - scikit-mol <0.4.6
     - scikit-learn
     - ipycytoscape
 
